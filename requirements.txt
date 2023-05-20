@@ -1,0 +1,5 @@
+pip install pyTelegramBotAPI
+
+pip install psutil
+
+pip install requests
